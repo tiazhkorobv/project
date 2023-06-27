@@ -1,4 +1,4 @@
-# project name: YT unhiden mouse pointer
+# project name: YT unhide mouse pointer
 #### Video Demo:  <URL HERE>
 #### Description:
 
