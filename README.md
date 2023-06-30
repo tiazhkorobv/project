@@ -28,8 +28,8 @@ Interact with the video controls, adjust the volume, and navigate through the ti
   + "content_scripts" defines the content script, which targets URLs containing "://.youtube.com/*" and utilizes the JavaScript file "content.js" to implement the cursor unhiding functionality. 
   + "icons" includes the extension's icon, sized 128x128 pixels, represented by the file "CursorYT.png".
 
-1. The content.js file is responsible for implementing the functionality of unhiding the mouse pointer on YouTube videos. The code targets the YouTube video player element and adds event listeners for the mouseenter and mouseleave events. When the mouse enters the video player, the cursor is set to 'auto', making it visible. When the mouse leaves the video player, the cursor is set to an empty string, which restores the default cursor behavior.
+2. The content.js file is responsible for implementing the functionality of unhiding the mouse pointer on YouTube videos. The code targets the YouTube video player element and adds event listeners for the mouseenter and mouseleave events. When the mouse enters the video player, the cursor is set to 'auto', making it visible. When the mouse leaves the video player, the cursor is set to an empty string, which restores the default cursor behavior.
 
-1. The CursorYT.png file is icon  fatures extension in browser extantion bar.
+3. The CursorYT.png file is icon  fatures extension in browser extantion bar.
 
 ## Install the extension now and enhance your watching on YouTube!
