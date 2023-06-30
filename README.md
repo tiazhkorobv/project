@@ -2,13 +2,11 @@
 #### Video Demo:  <URL HERE>
 
 ## Description:
-**YT Unhiden Mouse Pointer** is a **Chrome extension** that enhances your YouTube viewing experience by allowing you to change the cursor of the playing video. By default, YouTube hides the cursor when a video is playing, which can be inconvenient when you want to interact with the video controls. This extension solves that problem by unhiding the mouse pointer whenever you hover over the video player.
+**YT Unhiden Mouse Pointer** is a **Chrome extension** that enhances your YouTube viewing experience by allowing you to change the cursor of the playing video. By default, YouTube hides the cursor when a video is playing, which can be inconvenient when you want to interact with the video controls and othrer extensions' UI (for instance - Reverso Content subtitles). This extension solves that problem by unhiding the mouse pointer whenever you hover over the video player.
 
 ### Features:
 Unhides the mouse pointer during video playback on YouTube.
-Improves usability by making it easier to interact with video controls and navigate through the timeline.
-Seamless integration with the YouTube website.
-Lightweight and unobtrusive.
+Improves usability by making it easier to interact with video controls and others extensions.
 
 ### Usage:
 Once installed, the extension will automatically activate whenever you visit YouTube.
