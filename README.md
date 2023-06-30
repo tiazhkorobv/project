@@ -1,13 +1,7 @@
 # Project name:  Unhide YT mouse pointer!
 #### Video Demo:  <URL HERE>
 #### Description:
-<!--README.md file should be:
-- minimally multiple paragraphs in length, 
-- explain what your project is, 
 
-- what each of the files you wrote for the project contains and does, 
-- if you debated certain design choices, explaining why you made them. 
-. -->
 Extension Name: YT Unhiden Mouse Pointer
 Version: 1.0
 Manifest Version: 3
