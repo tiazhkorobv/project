@@ -25,4 +25,4 @@ Interact with the video controls, adjust the volume, and navigate through the ti
 
 3. The CursorYT.png file is icon  fatures extension in browser extantion bar.
 
-## Install the extension now and enhance your YouTube watching!
+## Install this extension and enhance your YouTube watching!
